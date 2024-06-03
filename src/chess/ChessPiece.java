@@ -10,14 +10,15 @@ public class ChessPiece extends Piece{
         super();
     }
     
-    public Color getColor(){
-        return color;
-    }
     
     public ChessPiece(Board board, Color color){
         super(board);
         this.color = color;
        
+    }
+    
+    public Color getColor(){
+        return color;
     }
     
 }
