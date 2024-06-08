@@ -12,10 +12,14 @@
             <file>file:/C:/Users/joaov/OneDrive/Documentos/NetBeansProjects/chess-system/src/boardgame/BoardException.java</file>
             <file>file:/C:/Users/joaov/OneDrive/Documentos/NetBeansProjects/chess-system/src/chess/ChessMatch.java</file>
             <file>file:/C:/Users/joaov/OneDrive/Documentos/NetBeansProjects/chess-system/src/application/Program.java</file>
+            <file>file:/C:/Users/joaov/OneDrive/Documentos/NetBeansProjects/chess-system/src/chess/pieces/Bishop.java</file>
             <file>file:/C:/Users/joaov/OneDrive/Documentos/NetBeansProjects/chess-system/src/boardgame/Board.java</file>
             <file>file:/C:/Users/joaov/OneDrive/Documentos/NetBeansProjects/chess-system/src/chess/ChessPiece.java</file>
             <file>file:/C:/Users/joaov/OneDrive/Documentos/NetBeansProjects/chess-system/src/application/UI.java</file>
+            <file>file:/C:/Users/joaov/OneDrive/Documentos/NetBeansProjects/chess-system/src/chess/pieces/Queen.java</file>
+            <file>file:/C:/Users/joaov/OneDrive/Documentos/NetBeansProjects/chess-system/src/chess/pieces/Pawn.java</file>
             <file>file:/C:/Users/joaov/OneDrive/Documentos/NetBeansProjects/chess-system/src/chess/Color.java</file>
+            <file>file:/C:/Users/joaov/OneDrive/Documentos/NetBeansProjects/chess-system/src/chess/pieces/Knight.java</file>
         </group>
     </open-files>
 </project-private>
